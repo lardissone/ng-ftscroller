@@ -1,0 +1,29 @@
+{
+  "name": "ng-ftscroller",
+  "version": "0.1.0",
+  "authors": [
+    "Leandro Ardissone <lardissone@gmail.com>"
+  ],
+  "description": "AngularJS directive for the ftscroller",
+  "main": "bower.json",
+  "keywords": [
+    "scroll",
+    "ftscroller",
+    "angular",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/lardissone/ng-ftscroller",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ftscroller": "~0.3.2",
+    "angular": "~1.2.13"
+  }
+}

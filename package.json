@@ -1,0 +1,17 @@
+{
+  "name": "ng-ftscroller",
+  "author": "Leandro Ardissone <leandro@ardissone.com>",
+  "description": "AngularJS directive for the ftscroller",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lardissone/ng-ftscroller"
+  },
+  "private": false,
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-util": "*",
+    "gulp-jshint": "*"
+  }
+}
